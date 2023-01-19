@@ -44,6 +44,7 @@ Table of Contents
    * https://www.manning.com/books/secret-key-cryptography - A book about cryptographic techniques and Secret Key methods.
    * https://www.manning.com/books/application-security-program-handbook - This practical book is a one-stop guide to implementing a robust application security program.
    * https://www.manning.com/books/cyber-threat-hunting - Practical guide to cyber threat hunting.
+   * https://www.manning.com/books/spring-security-in-action-second-edition - A book about the Spring Security techniques and tools you need to defend your apps against attack.
 
 
 ## Documentation
